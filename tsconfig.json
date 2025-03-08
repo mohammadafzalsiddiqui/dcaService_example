@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      // other options
+      "target": "es2015",
+      "esModuleInterop": true
+    }
+  }
